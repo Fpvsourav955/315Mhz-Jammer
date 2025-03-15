@@ -123,7 +123,7 @@ Before uploading the code you need to install the required library in Arduino ID
 
 In the first step, by selecting the desired frequency from the options in the menu, the device will start sending a signal to the 315 MHz band, then if necessary, the jammer will be stopped by selecting the up and down switches at the same time, and you will return to the menu.
 
-  <img src="https://user-images.githubusercontent.com/62047147/221204630-2963637a-9e5f-4fd1-80a8-288500c820b1.jpg" alt="logo" width="500" height="auto" />
+
 
 
 
@@ -139,4 +139,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## :handshake: Contact 
 
 
-Project Link: [https://github.com/cifertech/315Mhz-jammer](https://github.com/cifertech/315Mhz-jammer)
+Project Link: [https://github.com/cifertech/315Mhz-jammer](https://github.com/Fpvsourav955/315Mhz-Jammer)
