@@ -126,12 +126,7 @@ In the first step, by selecting the desired frequency from the options in the me
   <img src="https://user-images.githubusercontent.com/62047147/221204630-2963637a-9e5f-4fd1-80a8-288500c820b1.jpg" alt="logo" width="500" height="auto" />
 
 
-<!-- Contributing -->
-## :wave: Contributing
 
-<a href="https://github.com/cifertech/315Mhz-jammer/graphs/contributors">
-  <img src="https://i.ibb.co/NgFmx5mJ/souravpati.jpg" />
-</a>
 
 
 <!-- License --> 
@@ -143,6 +138,5 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact 
 
-CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
 
 Project Link: [https://github.com/cifertech/315Mhz-jammer](https://github.com/cifertech/315Mhz-jammer)
