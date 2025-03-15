@@ -11,12 +11,12 @@
  
 <!-- Badges -->
 
-<a href="https://github.com/cifertech/315Mhz-jammer" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cifertech&message=315Mhz-jammer&color=white&logo=github" alt="cifertech - 315Mhz-jammer"></a>
-<a href="https://github.com/cifertech/315Mhz-jammer"><img src="https://img.shields.io/github/stars/cifertech/315Mhz-jammer?style=social" alt="stars - 315Mhz-jammer"></a>
-<a href="https://github.com/cifertech/315Mhz-jammer"><img src="https://img.shields.io/github/forks/cifertech/315Mhz-jammer?style=social" alt="forks - 315Mhz-jammer"></a>
+<a href="https://https://github.com/Fpvsourav955/315Mhz-Jammer" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cifertech&message=315Mhz-jammer&color=white&logo=github" alt="cifertech - 315Mhz-jammer"></a>
+<a href="https://https://github.com/Fpvsourav955/315Mhz-Jammer"><img src="https://img.shields.io/github/stars/cifertech/315Mhz-jammer?style=social" alt="stars - 315Mhz-jammer"></a>
+<a href="https://https://github.com/Fpvsourav955/315Mhz-Jammer/"><img src="https://img.shields.io/github/forks/cifertech/315Mhz-jammer?style=social" alt="forks - 315Mhz-jammer"></a>
    
 <h4>
-    <a href="https://twitter.com/cifertech1">TWITTER</a>
+    <a href="https://www.linkedin.com/in/sourav-kumar-pati-aa0833297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LINKEDIN</a>
   <span> · </span>
     <a href="https://www.instagram.com/sourav.pati_?igsh=OGs5OWtza3h2d3F5">INSTAGRAM</a>
  
